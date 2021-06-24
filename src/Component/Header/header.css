@@ -1,0 +1,17 @@
+.headerDiv{
+    display: flex;
+    background-color: rgb(94, 94, 218);
+}
+
+.headerDiv h3{
+    margin-left: 45px;
+    padding: 12px;
+    color: white;
+}
+
+.headerDiv h3:hover{
+    cursor: pointer;
+    background-color: rgb(255, 255, 255);
+    color: black;
+    border-radius: 20px;
+}

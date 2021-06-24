@@ -1,0 +1,26 @@
+.footerDiv{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(94, 94, 218);
+    color: white;
+}
+
+.footerDiv p{
+    padding: 5px;
+}
+
+.footerDiv p:hover{
+    cursor: pointer;
+    background-color: white;
+    color: black;
+    border-radius: 15px;
+}
+.footerDiv a{
+    text-decoration: none;
+    color: white;
+}
